@@ -1,0 +1,15 @@
+body {
+margin:0;
+padding:0;
+overflow:hidden;
+}
+#countdown,#countdown_top {
+font-family:"Fredoka One", cursive;
+font-size:80px;
+text-align:center;
+color:#fff;
+margin:0;
+padding:0;
+-webkit-text-stroke-width:2px;
+-webkit-text-stroke-color:#000;
+}
