@@ -1,4 +1,4 @@
-# FromZeroToHero_JS
+# Fromi Zero To Hero: JavaScript 
 Repositorio de la segunda temporada de From Zero To Hero (Javascript)
 
 Enseño a programar desde cero utilizando Javascript.
